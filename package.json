@@ -1,4 +1,7 @@
 {
+  "scripts": {
+              "start": "node index.js"
+           }
   "dependencies": {
     "react-scripts": "^5.0.1"
   }
